@@ -4,3 +4,4 @@
 - 🔭 I’m an undergraduate student in <br><a href="https://sds.fudan.edu.cn/">School of Data Science, Fudan University</a>.
 - 📫 Contact: haoyangchen23 [AT] m [DOT] fudan [DOT] edu [DOT] cn
 - 💻 Personal homepage: <a href="https://ha0oooooo.github.io/">ha0oooooo.github.io</a>
+- 🎮 Hobbies: Reading, Swimming, and playing Dota 2.
